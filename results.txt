@@ -1,0 +1,66 @@
+
+Writing to results.
+Experiment run on                                    : 2016-06-03.16:29:11
+Number of evaluated agents                           : 5
+Number of tests                                      : 20
+Number of test iterations                            : 50
+Environment dimensions                               : 10-by-10
+Agent scores                                         : 
+Average reward for Random agents                     = 0.001
+Average reward for Local Search agents               = 0.4908
+Average reward for FR Local Search Collective        = 0.5161
+Average reward for WOC Local Search Collective       = 0.5516
+Average reward for Bidding LS Collective             = 0.4927
+Average reward for Dictator LS Collective            = 0.4633
+Average reward for LS agents binary tree             = 0.468
+Average reward for Oracle agents                     = 0.9584
+Average reward for QLearning agents                  = 0.3539
+Average reward for Cooperative QL Collective         = 0.3853
+Average reward for Sarsa agents                      = 0.354
+Average reward for Cooperative Sarsa Collective      = 0.42
+Average reward for Imitative LS Collective           = 0.8001
+-----------------------*** End of results ***-----------------------
+
+Writing to results.
+Experiment run on                                    : 2016-06-03.16:42:53
+Number of evaluated agents                           : 6
+Number of tests                                      : 50
+Number of test iterations                            : 20
+Environment dimensions                               : 7-by-7
+Agent scores                                         : 
+Average reward for Random agents                     = -0.00358333
+Average reward for Local Search agents               = 0.488167
+Average reward for FR Local Search Collective        = 0.509583
+Average reward for WOC Local Search Collective       = 0.521333
+Average reward for Bidding LS Collective             = 0.53025
+Average reward for Dictator LS Collective            = 0.489667
+Average reward for LS agents binary tree             = 0.482083
+Average reward for Oracle agents                     = 0.934917
+Average reward for QLearning agents                  = 0.4885
+Average reward for Cooperative QL Collective         = 0.52375
+Average reward for Sarsa agents                      = 0.48225
+Average reward for Cooperative Sarsa Collective      = 0.5305
+Average reward for Imitative LS Collective           = 0.837417
+-----------------------*** End of results ***-----------------------
+
+Writing to results.
+Experiment run on                                    : 2016-06-03.17:00:41
+Number of evaluated agents                           : 6
+Number of tests                                      : 20
+Number of test iterations                            : 30
+Environment dimensions                               : 12-by-12
+Agent scores                                         : 
+Average reward for Random agents                     = 0.0136111
+Average reward for Local Search agents               = 0.27
+Average reward for FR Local Search Collective        = 0.355833
+Average reward for WOC Local Search Collective       = 0.489444
+Average reward for Bidding LS Collective             = 0.356111
+Average reward for Dictator LS Collective            = 0.283056
+Average reward for LS agents binary tree             = 0.272222
+Average reward for Oracle agents                     = 0.897778
+Average reward for QLearning agents                  = 0.172222
+Average reward for Cooperative QL Collective         = 0.23375
+Average reward for Sarsa agents                      = 0.198194
+Average reward for Cooperative Sarsa Collective      = 0.253333
+Average reward for Imitative LS Collective           = 0.471944
+-----------------------*** End of results ***-----------------------

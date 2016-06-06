@@ -1,0 +1,5 @@
+8/04/2016,,,,,,,,,,,,,,,,,,,,,
+numberOfEvaluatedAgents,numberOfTests,testIterations,columns,columns,trainingIterations,finalRandomAgentGroupRewards              ,finalLocalSearchGroupRewards              ,finalFrLocalSearchGroupRewards            ,finalWocLocalSearchGroupRewards,finalBiddingLocalSearchGroupRewards       ,finalDictatorshipLocalSearchGroupRewards  ,finalBinaryTreeLocalSearchGroupRewards    ,finalImitativeLocalSearchGroupRewards     ,finalQlearningGroupRewards                ,finalCoopQlearningGroupRewards            ,finalSarsaGroupRewards                    ,finalCoopSarsaGroupRewards                ,finalOracleGroupRewards                   ,learning_rate                             ,discount_factor                           ,epsilon           
+5,20,50,10,10,100,0.001,0.4908,0.5161,0.5516,0.4927,0.4633,0.468,0.8001,0.3539,0.3853,0.354,0.42,0.9584,0.3,0.3,0.9
+6,50,20,7,7,100,-0.00358333,0.488167,0.509583,0.521333,0.53025,0.489667,0.482083,0.837417,0.4885,0.52375,0.48225,0.5305,0.934917,0.3,0.3,0.9
+6,20,30,12,12,100,0.0136111,0.27,0.355833,0.489444,0.356111,0.283056,0.272222,0.471944,0.172222,0.23375,0.198194,0.253333,0.897778,0.3,0.3,0.9
