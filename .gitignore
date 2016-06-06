@@ -1,4 +1,5 @@
 bin/
+obj/
 *.cscope_file_list
 *.layout
 *.depend
