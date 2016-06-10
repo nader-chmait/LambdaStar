@@ -72,7 +72,23 @@ An environment space is an m-by-n grid-world populated with a finite set of obje
 
 The Lambda Star environment consists of a toroidal grid space in the sense that moving off one border makes an agent appear on the opposite one. Consequently, the distance between two agents is calculated using the surpassing rule (toroidal distance) such that, in a 5-by-5 in grid space for example, the distance between cell (1, 3) and (5, 3) is equal to 1 cell. 
 
-The environment Lambda Star have been used in various projects [1, 2, 3, 4, 5, 6] to evaluate (machine and human) intelligence. 
+The Lambda Star environment has been used in various projects [1, 2, 3, 4, 5, 6] in the purpose of evaluating (machine and human) intelligence and performance. 
+Please cite this work as [7,1] (under README Sec. V References), or using BibTeX as follows:
+
+@inproceedings{Chmait2016b,
+  title={A dynamic intelligence test framework for evaluating AI agents},
+  author={Chmait Nader and Dowe David L. and Li Yuan-Fang and  Green David G.},
+  booktitle={Proceedings of the Workshop on Evaluating General-Purpose AI},
+  year={2016},
+  organization={held in conjunction with ECAI 2016}
+}
+@inproceedings{Chmait2016,
+  title={Factors of Collective Intelligence: How Smart Are Agent Collectives?},
+  author={Chmait Nader and Dowe David L. and Li Yuan-Fang and  Green David G. and  Insa-Cabrera Javier},
+  booktitle={ECAI},
+  year={2016}
+}
+
 
 IV. Sample agent beahviors
 ******************************************************************************
@@ -86,12 +102,13 @@ Likewise, heterogeneous collectives of agents can be defined as aggregations of 
 V. References
 ******************************************************************************
 
-[1] Chmait Nader, Dowe David L., Li Yuan-Fang, Green David G., and Insa-Cabrera Javier, ‘Factors of collective intelligence: How smart are agent collectives?’. Accepted for publication in ECAI 2016.
+[1] Chmait Nader, Dowe David L., Li Yuan-Fang, Green David G., and Insa-Cabrera Javier, ‘Factors of collective intelligence: How smart are agent collectives?’, in ECAI (2016).
 [2] Jose Hernandez-Orallo and David L. Dowe, ‘Measuring universal intelligence: Towards an anytime intelligence test’, Artificial Intelligence, 174(18), 1508–1539, (December 2010).
-[3] Javier Insa-cabrera, Jose Hernandez-orallo, David L. Dowe, Sergio Espaa, and M. Victoria Hernandez-lloreda. 'The anynt project intelligence test lambda one', 2012.
+[3] Javier Insa-cabrera, Jose Hernandez-orallo, David L. Dowe, Sergio Espaa, and M. Victoria Hernandez-lloreda. 'The ANYNT project intelligence test lambda one', 2012.
 [4] Nader Chmait, David L. Dowe, David G. Green, and Yuan-Fang Li, ‘Observation, communication and intelligence in agent-based systems’, in Proc. 8th Int. Conf. Artificial General Intelligence, Berlin, Germany, volume 9205, pp. 50–59, (Jul 2015). 
 [5] Nader Chmait, David L. Dowe, David G. Green, Yuan-Fang Li, and Javier Insa-Cabrera, ‘Measuring universal intelligence in agentbased systems using the anytime intelligence test’, Technical Report 2015/279, FIT, Clayton, Monash University, (2015).
 [6] Javier Insa-Cabrera, David L. Dowe, Sergio Espana-Cubillo, M. Victoria Hernandez-Lloreda, and Jose Hernandez-Orallo, ‘Comparing humans and AI agents’, in AGI, volume 6830 of LNCS, pp. 122–132. Springer, (2011).
+[7] Chmait Nader, Li Yuan-Fang,  Dowe David L. and Green David G. ‘A dynamic intelligence test framework for evaluating AI agents’, Proceedings of the Workshop on Evaluating General-Purpose AI (2016), held in conjunction with ECAI 2016.
 
 VI. MIT License
 ******************************************************************************
