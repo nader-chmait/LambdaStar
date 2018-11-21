@@ -1,3 +1,4 @@
+NOTE: Some agent behaviours in this project have been edited without being thoroughly  tested. Please verify the (code for taking an) action that different types of agents perform in response to receiving an observation from the environment.  
 
 I. File list
 ******************************************************************************
